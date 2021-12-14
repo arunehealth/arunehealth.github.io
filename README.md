@@ -1,3 +1,3 @@
 # arunehealth.github.io
 
-## this is a soul blog of the lessons learnt from my personal experiences
+## This is my concise CV and the projects and the positions that I am currently working on
